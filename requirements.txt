@@ -1,0 +1,16 @@
+# activate conda environment by navigating to project directory then using conda activate thesis_code
+# update dependencies with pip install -r requirements.txt
+cartopy==0.22.0
+geopandas==0.14.0
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.1.1
+protobuf==4.24.3
+regionmask==0.11.0
+scipy==1.11.2
+Shapely==2.0.1
+openpyxl==3.1.2
+seaborn==0.13.0
+netCDF4
+basemap==1.4.0
+xarray

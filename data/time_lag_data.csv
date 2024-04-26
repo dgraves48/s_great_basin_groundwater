@@ -1,0 +1,7 @@
+﻿volume,permeability,porosity,v_water,w_height,env
+1,9.87E-12,0.3,0.27,0.9,ground
+1,9.87E-12,0.3,0.24,0.8,ground
+1,9.87E-12,0.3,0.21,0.7,ground
+1,9.87E-12,0.3,0.18,0.6,ground
+1,9.87E-12,0.3,0.15,0.5,ground
+1,1.00E+00,1,0.4,0.4,lake
